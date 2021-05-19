@@ -37,7 +37,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/endlosmedia.de\/ndfstream\/"
+                 "value":"https:\/\/nuernberg.digital\/"
                 }],
          "type":"tilelayer",
          "visible":true,
