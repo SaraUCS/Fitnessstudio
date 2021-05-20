@@ -19,7 +19,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"7\nhttps:\/\/pixelgym.demo4customer.de\/index.html"
+                 "value":"https:\/\/pixelgym.demo4customer.de\/index.html"
                 }],
          "type":"tilelayer",
          "visible":true,
